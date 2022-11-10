@@ -18,5 +18,5 @@
   - 🎤 music
   - 🎓 learning and tinkering
 ## 🌐 More about me:
-  - [LinkedIn](https://www.linkedin.com/in/adamrpike/)
-  - [Twitter](https://twitter.com/adamrpike)
+  - LinkedIn: [@adamrpike](https://www.linkedin.com/in/adamrpike/)
+  - Mastodon: [@pike@social.lol](https://social.lol/@pike)
