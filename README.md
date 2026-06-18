@@ -1,8 +1,8 @@
 # 👋 Hello!
 
-I'm **Adam**, or **Pike** (or **_"Adam Pike!"_** if I'm in trouble). Thanks for stopping by!
+I'm **Adam**, or **Pike** (or **_"Adam Pike!"_** if I'm in trouble 😅). Thanks for stopping by! 
 
-## About me
+## 🧙🏻‍♂️ About me
   - 🇨🇦 From Newfoundland and Labrador, Canada
   - 👨🏻‍💼 Senior Solutions Architect (Ex-1Password)
 
