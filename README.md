@@ -1,15 +1,17 @@
-# 👋 Whaddya at? It's Pike!
+# 👋 Hello!
+
+I'm **Adam**, or **Pike** (or **_"Adam Pike!"_** if I'm in trouble). Thanks for stopping by!
 
 ## About me
   - 🇨🇦 From Newfoundland and Labrador, Canada
-  - 💼 Solutions Architect [@1Password](https://github.com/1Password)
+  - 👨🏻‍💼 Senior Solutions Architect (Ex-1Password)
 
 ## 🤓 Interests
   - 🤖 automation (home automation & commercial applications)
+  - 🔐 security, secrets management, and secure networking
   - 🛠️ APIs & integrations
   - 🏗️ container infrastructure & orchestration
   - 📜 infrastructure as code
-  - 🔐 secrets management
   - ⏩ development workflow optimization
   - 👨🏻‍🏫 mentorship
 
